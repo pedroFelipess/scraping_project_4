@@ -13,7 +13,7 @@ This project scrapes the Brazil ETFs table from [Investing.com](https://br.inves
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   git clone git@github.com:pedroFelipess/scraping_project_4.git
    ```  
 2. Install the dependencies:  
    ```bash
